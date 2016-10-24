@@ -1,5 +1,4 @@
 # Mad Libs in Java
-What...mad libs in java?
+Old Mad Libs in Java. Well actually two of them.
 
-You'll need Eclipse Luna or something of that nature to open up this stuff.
-I know. Awesome.
+I'll rename the Mad Libs file soon. The certain one.
