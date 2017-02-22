@@ -1,4 +1,4 @@
 # Mad Libs in Java
-Old Mad Libs in Java. Well actually two of them.
+I'm pretty sure my edits to remove circa-2014 code probably screwed up trying to run this.
 
-I'll rename the Mad Libs file soon. The certain one.
+You could probably take the code in /src/, copy + paste, and get some mad libs.
