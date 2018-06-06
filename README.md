@@ -1,4 +1,7 @@
-# Mad Libs in Java
-I'm pretty sure my edits to remove circa-2014 code probably screwed up trying to run this.
+Please visit https://gitlab.com/o355/madlibsjava for the active repository and code.
 
-You could probably take the code in /src/, copy + paste, and get some mad libs.
+## Why did you move to GitLab?
+I do not want to support GitHub after Microsoft acquired GitHub. I do not support publishing my work on a website owned by an extremely anti-user, pro-proprietary and pro-surveillance company.
+
+## Why delete your code?
+I do not want my code published on this site anymore.
